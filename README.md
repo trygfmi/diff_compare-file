@@ -48,7 +48,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -79,7 +79,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -110,7 +110,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -136,7 +136,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -206,7 +206,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -285,7 +285,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -320,7 +320,8 @@ Nothing is displayed</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version
+diff --version</code></pre>
 
 
 
@@ -358,7 +359,8 @@ Nothing is displayed</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git
+pacman --sync mingw-w64-x86_64-diffutils</code></pre>
 </div>
 
 
@@ -390,7 +392,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
@@ -416,7 +418,7 @@ diff old2.txt new2.txt</code></pre>
 &lt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 \ No newline at end of file
 ---
-> ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
+&gt; ./example1.txt ./folder1/example2.txt ./folder1/example3.txt ./folder1/folder2/example4.txt ./folder1/folder3/example5.txt
 
 Nothing is displayed</code></pre>
 </details>
